@@ -1,0 +1,42 @@
+2022-06-07T02:27:00+00:00 CRITICAL Uncaught Error: Undefined constant "W366_TEXT_DOMAIN" in C:\xampp\htdocs\ecommerce_glotech\wp-content\themes\wp_learning\functions.php:47
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce_glotech\wp-includes\class-wp-hook.php(307): wplearning_after_setup_theme('')
+#1 C:\xampp\htdocs\ecommerce_glotech\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\ecommerce_glotech\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\ecommerce_glotech\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\xampp\htdocs\ecommerce_glotech\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce_glotech\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce_glotech\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\ecommerce_glotech\wp-content\themes\wp_learning\functions.php on line 47
+
+2022-06-07T02:27:01+00:00 CRITICAL Uncaught Error: Undefined constant "W366_TEXT_DOMAIN" in C:\xampp\htdocs\ecommerce_glotech\wp-content\themes\wp_learning\functions.php:47
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce_glotech\wp-includes\class-wp-hook.php(307): wplearning_after_setup_theme('')
+#1 C:\xampp\htdocs\ecommerce_glotech\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\ecommerce_glotech\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\ecommerce_glotech\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\xampp\htdocs\ecommerce_glotech\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce_glotech\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce_glotech\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\ecommerce_glotech\wp-admin\themes.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\ecommerce_glotech\wp-content\themes\wp_learning\functions.php on line 47
+
+2022-06-07T02:30:36+00:00 CRITICAL Uncaught Error: Undefined constant "text_domain" in C:\xampp\htdocs\ecommerce_glotech\wp-content\themes\wp_learning\functions.php:47
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce_glotech\wp-includes\class-wp-hook.php(307): wplearning_after_setup_theme('')
+#1 C:\xampp\htdocs\ecommerce_glotech\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\ecommerce_glotech\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\ecommerce_glotech\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\xampp\htdocs\ecommerce_glotech\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ecommerce_glotech\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ecommerce_glotech\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\ecommerce_glotech\wp-admin\nav-menus.php(13): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\ecommerce_glotech\wp-content\themes\wp_learning\functions.php on line 47
+
+2022-06-07T03:24:39+00:00 CRITICAL syntax error, unexpected end of file, expecting "(" in C:\xampp\htdocs\ecommerce_glotech\wp-content\themes\wp_learning\functions.php on line 54
+
+2022-06-07T06:18:56+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\ecommerce_glotech\wp-content\themes\wp_learning\widgets\wpshare247_header_hero.php on line 69
+
