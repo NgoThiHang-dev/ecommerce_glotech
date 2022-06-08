@@ -846,7 +846,7 @@ header .col-3.col-md-9 {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../img/product-shape.svg);
+  background-image: url(../../assets/images/product-shape.svg);
   background-size: cover;
   background-position: left center bottom;
 }
@@ -977,7 +977,7 @@ header .col-3.col-md-9 {
   width: 100%;
   height: 100%;
   content: "";
-  background-image: url(../img/technical.svg);
+  background-image: url(../images/technical.svg);
   background-size: cover;
   background-position: center;
 }

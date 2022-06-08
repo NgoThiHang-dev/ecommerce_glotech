@@ -9,6 +9,7 @@ function wplearning_wp_head()
 <?php
 }
 
+
 //húng css, javascript va jquery
 add_action('wp_enqueue_scripts', 'wplearning_register_scripts');
 function wplearning_register_scripts()

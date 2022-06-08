@@ -18,8 +18,6 @@ if (!class_exists('wpshare247_header_hero')) :
 		//Hiển thị nội dung Widget
 		function widget($args, $instance)
 		{
-			$defaults = array('title' => '', 'my_img_url' => '');
-
 			$background_url = $instance['background_url'];
 			$title = $instance['title'];
 			$description = $instance['description'];
@@ -185,6 +183,7 @@ if (!class_exists('wpshare247_header_hero')) :
 				<input class="widefat" type="text" value="<?php echo esc_attr($instance['link_button']); ?>" name="<?php echo esc_attr($this->get_field_name('link_button')); ?>" id="<?php echo esc_attr($this->get_field_id('link_button')); ?>" />
 			</p>
 
+			<!-- image -->
 			<?php Ws247_M_WG::helper_image_field('img_right_url', 'Image Ware Right', $this, $instance); ?>
 			<?php Ws247_M_WG::helper_image_field('background_url', 'Background Image', $this, $instance); ?>
 

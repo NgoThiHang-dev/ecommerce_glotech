@@ -4,7 +4,7 @@
             <div class="col-9 col-md-3">
                 <!-- Start site logo -->
                 <div class="site-logo">
-                    <a href="index.html"><img src="img/logo-1.png" alt=""></a>
+                    <a href="index.html"><img src="../../assets/images/logo-1.png" alt=""></a>
                 </div>
                 <!-- End site logo -->
             </div>
